@@ -1,0 +1,14 @@
+{
+    "theme_color": "#2e2a3c",
+    "icons": 
+    [
+        {
+            "src": "src/maskable_icon.png",
+            "sizes": "64x64",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
+
+

@@ -170,7 +170,7 @@ h2 {
 .header-img img {
     border-radius: 7.5rem 7.5rem 1.5rem 1.5rem;
     max-width: 80%;
-    width: 100%;
+    width: 50%;
     height: auto;
     box-shadow: 0px 0px 24px 0px rgb(85, 87, 104);
     margin: 2rem;
@@ -439,12 +439,13 @@ h2 {
     }
 }
 
-@media (min-width:600px) {
+@media (min-width:900px) {
     .header-img {
         display: flex;
         flex-direction: row;
         width: 100%;
         position: relative;
+        height: 650px;
     }
 
     .header-img img {
@@ -465,7 +466,7 @@ h2 {
     }
 }
 
-@media (max-width: 578px) {
+@media (max-width: 900px) {
 
     .icon {
         padding: 2rem;
